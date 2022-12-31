@@ -15,8 +15,8 @@ Steps to run the application:
         spring.datasource.password=X
 
 7. Start the application
-    cd springboot-ui-mysql-maven-webapp
-    mvn spring-boot:run
+    - cd springboot-ui-mysql-maven-webapp
+    - mvn spring-boot:run
 
 8. To access the web application : http://localhost:8080
 
